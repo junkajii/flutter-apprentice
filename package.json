@@ -1,0 +1,9 @@
+{
+  "name": "flutter_apprentice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "commit": "gitmoji -c"
+  }
+}
